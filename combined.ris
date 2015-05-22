@@ -1,4 +1,3 @@
-
 TY  - CHAP
 A2  - De Broyer, C.
 A2  - Koubbi, P.
@@ -231,6 +230,7 @@ ST  - Palaeo-oceanography (Box)
 T2  - Biogeographic Atlas of the Southern Ocean
 TI  - Palaeo-oceanography (Box)
 ER  - 
+
 
 TY  - CHAP
 A2  - De Broyer, C.
@@ -1175,7 +1175,6 @@ T2  - Biogeographic Atlas of the Southern Ocean
 TI  - Biotic Interactions
 ER  - 
 
-
 TY  - CHAP
 A2  - De Broyer, C.
 A2  - Koubbi, P.
@@ -1494,14 +1493,14 @@ AU  - Causse, R.
 AU  - Koubbi, P. 
 AU  - Vacchi, M. 
 AU  - Pruvost, P. 
-AU  -Vigetta, S.
-AU  -Irisson, J.-O. 
+AU  - Vigetta, S.
+AU  - Irisson, J.-O. 
 AU  - Mormède, S.
-AU  - Belchier, M.
-Dettai, A.
-Detrich, H.W.
-Gutt, J.,
-Jones, C.D.
+AU  -Belchier, M.
+AU  - Dettai, A.
+AU  -Detrich, H.W.
+AU  -Gutt, J.
+AU  -Jones, C.D.
 AU  - Kock, K.-H.,
 AU  - Lopez Abellan, L.J.,
 AU  - Van de Putte, A.P.
@@ -1542,6 +1541,7 @@ CY  - Cambridge UK
 PB  - Scientific Committee on Antarctic Research
 PY  - 2014
 SN  - 978-0-948277-28-3
+SP  - 365–387
 ST  - Birds and Mammals
 T2  - Biogeographic Atlas of the Southern Ocean
 TI  - Birds and Mammals
@@ -1570,6 +1570,7 @@ CY  - Cambridge UK
 PB  - Scientific Committee on Antarctic Research
 PY  - 2014
 SN  - 978-0-948277-28-3
+SP  - 390–396
 ST  - Climate change and predictions on pelagic biodiversity components
 T2  - Biogeographic Atlas of the Southern Ocean
 TI  - Climate change and predictions on pelagic biodiversity components
@@ -1598,6 +1599,7 @@ CY  - Cambridge UK
 PB  - Scientific Committee on Antarctic Research
 PY  - 2014
 SN  - 978-0-948277-28-3
+SP  - 397–403
 ST  - Past, present and future state of pelagic habitats in the Antarctic Ocean
 T2  - Biogeographic Atlas of the Southern Ocean
 TI  - Past, present and future state of pelagic habitats in the Antarctic Ocean
@@ -1632,6 +1634,7 @@ CY  - Cambridge UK
 PB  - Scientific Committee on Antarctic Research
 PY  - 2014
 SN  - 978-0-948277-28-3
+SP  - 404–407
 ST  - Assessing status and change in Southern Ocean ecosystems
 T2  - Biogeographic Atlas of the Southern Ocean
 TI  - Assessing status and change in Southern Ocean ecosystems
@@ -1661,7 +1664,207 @@ CY  - Cambridge UK
 PB  - Scientific Committee on Antarctic Research
 PY  - 2014
 SN  - 978-0-948277-28-3
+SP  - 408–411
 ST  - Conservation and management
 T2  - Biogeographic Atlas of the Southern Ocean
 TI  - Conservation and management
+ER  - 
+
+
+TY  - CHAP
+A2  - De Broyer, C.
+A2  - Koubbi, P.
+A2  - Griffiths, H.J.
+A2  - Raymond, B.
+A2  - d'Udekem d'Acoz, C.
+A2  - Van de Putte, A.P.
+A2  - Danis, B.
+A2  - David, B.
+A2  - Grant, S.
+A2  - Gutt, J.
+A2  - Held, C.
+A2  - Hosie, G.
+A2  - Huettmann, F.
+A2  - Post, A.
+A2  - Ropert-Coudert, Y.
+AU  - Douglass, L.L.
+AU  - Beaver, D.
+AU  - Raymond, B.
+AU  - Constable, A.J.
+AU  - Brandt, A.
+AU  - Post, A.L.
+AU  - Kaiser, S.
+AU  - Grantham, H.S.
+AU  - Nicoll, R.A.
+CY  - Cambridge UK
+PB  - Scientific Committee on Antarctic Research
+PY  - 2014
+SN  - 978-0-948277-28-3
+SP  - 414–417
+ST  - Benthic Regional Classification
+T2  - Biogeographic Atlas of the Southern Ocean
+TI  - Benthic Regional Classification
+ER  - 
+
+
+TY  - CHAP
+A2  - De Broyer, C.
+A2  - Koubbi, P.
+A2  - Griffiths, H.J.
+A2  - Raymond, B.
+A2  - d'Udekem d'Acoz, C.
+A2  - Van de Putte, A.P.
+A2  - Danis, B.
+A2  - David, B.
+A2  - Grant, S.
+A2  - Gutt, J.
+A2  - Held, C.
+A2  - Hosie, G.
+A2  - Huettmann, F.
+A2  - Post, A.
+A2  - Ropert-Coudert, Y.
+AU  - Raymond, B.
+CY  - Cambridge UK
+PB  - Scientific Committee on Antarctic Research
+PY  - 2014
+SN  - 978-0-948277-28-3
+SP  - 418–421
+ST  - Pelagic Regionalisation
+T2  - Biogeographic Atlas of the Southern Ocean
+TI  - Pelagic Regionalisation
+ER  - 
+
+
+TY  - CHAP
+A2  - De Broyer, C.
+A2  - Koubbi, P.
+A2  - Griffiths, H.J.
+A2  - Raymond, B.
+A2  - d'Udekem d'Acoz, C.
+A2  - Van de Putte, A.P.
+A2  - Danis, B.
+A2  - David, B.
+A2  - Grant, S.
+A2  - Gutt, J.
+A2  - Held, C.
+A2  - Hosie, G.
+A2  - Huettmann, F.
+A2  - Post, A.
+A2  - Ropert-Coudert, Y.
+AU  - Hosie, G.
+AU  - Mormède, S.
+AU  - Kitchener, J.
+AU  - Takahashi, K.
+AU  - Raymond, B.
+CY  - Cambridge UK
+PB  - Scientific Committee on Antarctic Research
+PY  - 2014
+SN  - 978-0-948277-28-3
+SP  - 322–430
+ST  - Near-surface Zooplankton Communities
+T2  - Biogeographic Atlas of the Southern Ocean
+TI  - Near-surface Zooplankton Communities
+ER  - TY  - CHAP
+A2  - De Broyer, C.
+A2  - Koubbi, P.
+A2  - Griffiths, H.J.
+A2  - Raymond, B.
+A2  - d'Udekem d'Acoz, C.
+A2  - Van de Putte, A.P.
+A2  - Danis, B.
+A2  - David, B.
+A2  - Grant, S.
+A2  - Gutt, J.
+A2  - Held, C.
+A2  - Hosie, G.
+A2  - Huettmann, F.
+A2  - Post, A.
+A2  - Ropert-Coudert, Y.
+AU  - Danis, B.
+AU  - De Broyer, C.
+AU  - Koubbi, P.
+AU  - Van de Putte, A.P.
+CY  - Cambridge UK
+PB  - Scientific Committee on Antarctic Research
+PY  - 2014
+SN  - 978-0-948277-28-3
+SP  - 466–467
+ST  - The Dynamic Biogeographic Atlas Project
+T2  - Biogeographic Atlas of the Southern Ocean
+TI  - Conclusions: Present and Future of Southern Ocean Biogeography
+ER  - 
+
+TY  - CHAP
+A2  - De Broyer, C.
+A2  - Koubbi, P.
+A2  - Griffiths, H.J.
+A2  - Raymond, B.
+A2  - d'Udekem d'Acoz, C.
+A2  - Van de Putte, A.P.
+A2  - Danis, B.
+A2  - David, B.
+A2  - Grant, S.
+A2  - Gutt, J.
+A2  - Held, C.
+A2  - Hosie, G.
+A2  - Huettmann, F.
+A2  - Post, A.
+A2  - Ropert-Coudert, Y.
+AU  - Danis, B.
+AU  - De Broyer, C.
+AU  - Koubbi, P.
+AU  - Van de Putte, A.P.
+CY  - Cambridge UK
+PB  - Scientific Committee on Antarctic Research
+PY  - 2014
+SN  - 978-0-948277-28-3
+SP  - 466–467
+ST  - The Dynamic Biogeographic Atlas Project
+T2  - Biogeographic Atlas of the Southern Ocean
+TI  - Conclusions: Present and Future of Southern Ocean Biogeography
+ER  - 
+
+
+TY  - CHAP
+A2  - De Broyer, C.
+A2  - Koubbi, P.
+A2  - Griffiths, H.J.
+A2  - Raymond, B.
+A2  - d'Udekem d'Acoz, C.
+A2  - Van de Putte, A.P.
+A2  - Danis, B.
+A2  - David, B.
+A2  - Grant, S.
+A2  - Gutt, J.
+A2  - Held, C.
+A2  - Hosie, G.
+A2  - Huettmann, F.
+A2  - Post, A.
+A2  - Ropert-Coudert, Y.
+AU  - Koubbi, P.
+AU  - De Broyer, C.
+AU  - Griffiths, H.J.
+AU  - Raymond, B.
+AU  - d'Udekem d'Acoz, C.
+AU  - Van de Putte, A.P.
+AU  - Danis, B.
+AU  - David, B.
+AU  - Grant, S.
+AU  - Gutt, J.
+AU  - Held, C.
+AU  - Hosie, G.
+AU  - Huettmann, F.
+AU  - Post, A.
+AU  - Ropert-Coudert, Y.
+AU  - Stoddart, M.
+AU  - Swadling, K.M.
+AU  - Wadley, V.
+CY  - Cambridge UK
+PB  - Scientific Committee on Antarctic Research
+PY  - 2014
+SN  - 978-0-948277-28-3
+SP  - 470–475
+ST  - Conclusions: Present and Future of Southern Ocean Biogeography
+T2  - Biogeographic Atlas of the Southern Ocean
+TI  - Conclusions: Present and Future of Southern Ocean Biogeography
 ER  - 
