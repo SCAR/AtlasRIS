@@ -6,7 +6,7 @@ This repository contains various resources related to the Biogeographic Atlas of
 
 Selected chapters are available for download from http://atlas.biodiversity.aq/outline.html.
 
-1. Citation information can be found in the citations folder.
+## Citation information
 
 The overall citation is:
 
@@ -14,6 +14,6 @@ De Broyer C, Koubbi P, Griffiths HJ, Raymond B, Udekem d’Acoz C d’, Van de P
 
 Citations for individual chapters and sections (as well as the overall citation) are contained in the [RIS file](https://github.com/SCAR/BiogeographicAtlas/tree/master/citations).
 
-2. Figures can be found in the figures folder.
+## Figures
 
-Note that the Atlas was published under a [CC-BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/). Use of the figures is subject to that license, and thus requires acknowledgement of the source of the igures (use either the specific chapter citation, or the overall Atlas citation, as appropriate: citation information provided above).
+The Atlas was published under a [CC-BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/). Use of the figures is subject to that license, and thus requires acknowledgement of the source of the igures (use either the specific chapter citation, or the overall Atlas citation, as appropriate: citation information provided above).

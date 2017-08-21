@@ -1,4 +1,4 @@
-# The Biogeographic Atlas of the Southern Ocean
+# Figures from the Biogeographic Atlas of the Southern Ocean
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg" />
 
