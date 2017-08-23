@@ -1,5 +1,6 @@
-# AtlasRIS
-Biogeographic Atlas of the Southern Ocean citation information
+# Biogeographic Atlas of the Southern Ocean
+
+## Citation information
 
 See http://atlas.biodiversity.aq
 
